@@ -10,11 +10,11 @@
 - :goal_net: 2020 Goals: Survive.
 - :earth_americas: From São Paulo, Brazil.
 
-<div style="text-align: center;margin: 50px;">
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrepaldi&theme=radical&layout=compact&custom_title=Top%20Languages%20(Public%20Repos)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrepaldi&theme=radical&layout=compact&custom_title=Top%20Languages%20(Public%20Repos)">
 </a>
-</div>
+</p>
 
 ---
 
