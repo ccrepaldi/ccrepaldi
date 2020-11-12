@@ -1,4 +1,4 @@
-### Hi there, I'm Caike Crepaldi - aka [ccrepaldi][website] 👋
+### Hi there, I'm Caike - aka [ccrepaldi][website] 👋
 
 ## I'm an M.Sc. Candidate, a Pen Collector & Book Enthusiast !
 
@@ -8,6 +8,8 @@
 - :fountain_pen: My last (fountain) pen acquisition was a Platinum #3776 Century Chartres Blue with 14K gold soft fine (SF) nib. My current favorite everyday writing pen.
 - :notebook_with_decorative_cover: My last notebook acquisition was a handmade and beautifully crafted Caramel A5 Journal & Black A6 Journal from [Arte Bodoque](https://www.artebodoque.com).
 - :goal_net: 2020 Goals: Survive
+
+---
 
 ### OS:
 
