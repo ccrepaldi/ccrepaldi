@@ -12,7 +12,7 @@
 ![MAC](https://img.shields.io/badge/Mac-999999?logo=apple&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 
-### Web Development Languages:
+### Web Development:
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -22,6 +22,7 @@
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll%20-%23CC0000.svg?&style=for-the-badge&logo=jekyll&logoColor=white)
 
 ### Scientific Computing Languages:
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
