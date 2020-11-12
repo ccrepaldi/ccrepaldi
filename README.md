@@ -10,6 +10,12 @@
 - :goal_net: 2020 Goals: Survive.
 - :earth_americas: From São Paulo, Brazil.
 
+<div style="text-align: center;margin: 50px;">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrepaldi&theme=radical&layout=compact&custom_title=Top%20Languages%20(Public%20Repos)">
+</a>
+</div>
+
 ---
 
 ### OS:
@@ -48,12 +54,9 @@
 ![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 ![Jekyll](https://img.shields.io/badge/Jekyll%20-%23CC0000.svg?&style=for-the-badge&logo=jekyll&logoColor=white)
 
-<br>
+---
 
 <b id="f1">[1]</b> I usually use MATLAB when run time is not a main concern. Otherwise I prefer using modern Fortran (with OpenMP and MPI when needed). [↩](#a1)<br>
 <b id="f2">[2]</b> All applied to my [website][website]. [↩](#a2)
-
----
-:brazil:
 
 [website]: https://fap.if.usp.br/~crepaldi/
