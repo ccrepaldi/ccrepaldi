@@ -1,10 +1,13 @@
-# Hi there, I'm Caike Crepaldi - aka [ccrepaldi][website] 👋
+### Hi there, I'm Caike Crepaldi - aka [ccrepaldi][website] 👋
 
-## I'm an M.Sc. Candidate in Brazil, a Graduate Teaching Assistant, a Pen Collector & Book Enthusiast !
+## I'm an M.Sc. Candidate, a Pen Collector & Book Enthusiast !
 
-- 🔭 I just created my first Google Apps Script: A custom function to run the generalized least squares method in Google Sheets with customizable output.
-- 🌱 I’m currently learning R.
-- 🥅 2020 Goals: Survive
+- :atom: I'm a 25-year-old physicist currently working on Plasma Turbulence in tokamaks.
+- :telescope: I just created my first Google Apps Script: A custom function to run the least squares method in Google Sheets with customizable output.
+- :seedling:	 I’m currently learning R.
+- :fountain_pen: My last (fountain) pen acquisition was a Platinum #3776 Century Chartres Blue with 14K gold soft fine (SF) nib. My current favorite everyday writing pen.
+- :notebook_with_decorative_cover: My last notebook acquisition was a handmade and beautifully crafted Caramel A5 Journal & Black A6 Journal from [Arte Bodoque](https://www.artebodoque.com).
+- :goal_net: 2020 Goals: Survive
 
 ### OS:
 
@@ -42,6 +45,7 @@
 ![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-%230F9D58.svg?&style=for-the-badge&logo=google%20sheets&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?&style=for-the-badge&logo=microsoft%20excel&logoColor=white)
 
-
+---
+:brazil:
 
 [website]: https://fap.if.usp.br/~crepaldi/
